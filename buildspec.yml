@@ -1,4 +1,5 @@
 version: 0.1
+
 phases:
   build:
     commands:
@@ -6,3 +7,4 @@ phases:
 artifacts:
   files:
     - '**/*'
+
